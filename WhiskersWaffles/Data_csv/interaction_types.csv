@@ -1,0 +1,9 @@
+type_id,type_name,description,base_duration_mins,requires_training
+1,Lap Time,Cat sits in customer lap,15,False
+2,Play Session,"Active play with toys (wands, lasers, etc.)",20,False
+3,Petting,Gentle petting and scratching,10,False
+4,Brushing,Customer helps groom the cat,15,True
+5,Photo Session,Customer takes photos with cat,10,False
+6,Feeding,Customer gives treats under staff guidance,5,True
+7,Training,Basic training exercises with cat,20,True
+8,Socialization,Helping shy cats adjust to people,30,True

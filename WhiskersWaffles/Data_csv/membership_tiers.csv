@@ -1,0 +1,5 @@
+tier_id,tier_name,monthly_price,visit_discount_pct
+1,Walk-In,0.0,0.0
+2,Basic,10.0,0.1
+3,Premium,25.0,0.25
+4,Founding Member,50.0,0.4

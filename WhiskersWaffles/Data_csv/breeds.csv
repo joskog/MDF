@@ -1,0 +1,11 @@
+breed_id,breed_name,avg_weight_lbs,typical_temperament,origin_country,avg_lifespan_years
+1,Maine Coon,15.0,"Gentle, playful, good with strangers",United States,13
+2,Domestic Shorthair,10.0,Varies widely - mixed heritage,Various,15
+3,Siamese,9.0,"Vocal, social, bonds strongly with people",Thailand,15
+4,Persian,11.0,"Calm, quiet, prefers routine",Iran,15
+5,Norwegian Forest Cat,16.0,"Independent, athletic, patient",Norway,14
+6,British Shorthair,14.0,"Easygoing, affectionate, quiet",United Kingdom,15
+7,Ragdoll,15.0,"Docile, calm, follows people around",United States,15
+8,Abyssinian,9.0,"Active, playful, curious",Ethiopia,12
+9,Bengal,12.0,"Energetic, intelligent, needs stimulation",United States,14
+10,Scottish Fold,10.0,"Sweet-tempered, adaptable, loves attention",Scotland,14

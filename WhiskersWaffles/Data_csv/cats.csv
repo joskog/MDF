@@ -1,0 +1,74 @@
+cat_id,name,breed_id,color,birth_date,arrival_date,adoption_date,status,shelter_id,personality_notes,medical_notes,is_featured,temperament_score,weight_lbs,senior_designation,socialization_program
+19,Tilly,9,White,2015-11-11,2022-08-01,,available,2,Very playful and energetic. Great with interactive toys.,,False,6.5,12.6,False,False
+20,Goose,8,Smoke gray,2021-01-15,2022-11-12,,available,3,Quiet observer. Watches everything from a cozy perch.,,False,7.9,5.9,False,False
+21,Marley,9,Silver tabby,2018-10-15,2024-05-31,,available,4,Vocal and social. Will follow visitors around the lounge.,,False,7.4,10.9,False,False
+22,Basil,6,Lilac point,2016-08-24,2023-03-11,2023-06-21,adopted,2,High energy kitten. Needs lots of play and stimulation.,,False,4.2,19.0,False,False
+23,Brownie,2,Seal mitted,2015-04-20,2023-01-22,,available,3,Vocal and social. Will follow visitors around the lounge.,,True,7.5,9.3,True,False
+24,Archie,8,Blue (gray),2018-04-04,2023-08-14,2023-11-21,adopted,1,Extremely affectionate. Seeks out human contact constantly.,,False,7.2,11.0,False,False
+25,Echo,7,Gray folded ears,2022-02-14,2023-05-30,2023-08-09,adopted,3,Friendly and outgoing. Loves meeting new people.,,False,6.3,12.9,False,False
+26,Snickers,3,Lilac point,2018-02-05,2023-12-26,2024-01-27,adopted,3,Independent but affectionate when ready. Respects boundaries.,,False,5.8,12.5,False,False
+27,Wren,7,Mackerel tabby,2015-11-16,2023-09-20,2023-12-27,adopted,4,Adventurous spirit. Loves new experiences and visitors.,,True,5.3,13.7,True,False
+28,Toast,3,Blue bicolor,2020-02-22,2024-07-25,,available,2,Snuggly and warm. Perfect companion for cold days.,,False,6.3,8.0,False,False
+29,Gracie,3,Seal mitted,2019-07-08,2023-02-10,,available,1,Active and athletic. Loves climbing and jumping.,,False,5.2,6.4,False,False
+30,Iris,9,Black,2020-06-26,2024-04-15,,available,2,Patient and easygoing. Great with children and first-time visitors.,,False,7.2,11.3,False,False
+31,Bean,10,Lilac point,2017-08-13,2023-08-13,2023-11-21,adopted,5,Calm and gentle. Perfect lap cat for relaxed visits.,,False,4.9,9.5,False,False
+32,Bear,2,Red tabby,2022-08-23,2023-04-30,2023-06-01,adopted,3,Adventurous spirit. Loves new experiences and visitors.,,False,9.5,10.9,False,False
+33,Sage,3,Seal mitted,2022-03-18,2022-10-28,2023-01-18,adopted,1,Extremely affectionate. Seeks out human contact constantly.,,False,5.2,10.5,False,False
+34,Sprout,6,Black,2016-08-18,2023-06-18,,available,3,Vocal and social. Will follow visitors around the lounge.,,False,7.8,10.7,False,False
+35,Cocoa,2,Ruddy,2016-05-19,2023-10-19,2023-12-06,adopted,5,Very playful and energetic. Great with interactive toys.,,True,2.7,7.7,True,True
+36,Bagel,1,Lilac point,2016-01-04,2023-11-10,2023-12-20,adopted,4,Quiet observer. Watches everything from a cozy perch.,,True,7.4,14.3,True,False
+37,Tulip,1,Silver tabby,2015-11-04,2023-02-09,2023-04-14,adopted,2,Initially shy but warms up quickly. Prefers quiet visitors.,,True,7.6,15.0,True,False
+38,Oscar,2,Mackerel tabby,2022-05-25,2024-05-31,,available,3,Playful but knows when to settle down. Good balance.,,False,5.0,10.0,False,False
+39,Salem,3,Gray folded ears,2016-05-05,2023-03-13,,available,2,Playful but knows when to settle down. Good balance.,,False,4.6,5.6,False,False
+40,Oreo,1,Cream,2017-05-17,2023-11-25,2024-01-28,adopted,2,Adventurous spirit. Loves new experiences and visitors.,,True,8.9,16.4,False,False
+41,Cheeto,9,White,2019-06-06,2023-02-19,2023-04-24,adopted,1,Mischievous and clever. Enjoys puzzle toys and treat dispensers.,,False,8.3,12.6,False,False
+42,Spice,7,Lilac point,2015-05-15,2022-12-23,,available,1,Friendly and outgoing. Loves meeting new people.,,True,8.1,17.4,True,False
+43,Opal,9,Blue bicolor,2017-01-31,2022-11-25,,available,4,Extremely affectionate. Seeks out human contact constantly.,,True,7.5,13.8,False,False
+44,Loki,3,Orange tabby,2021-05-02,2023-01-17,,available,5,Active and athletic. Loves climbing and jumping.,,False,1.0,7.6,False,False
+45,Cinnamon,9,Black,2019-12-15,2023-09-25,,available,4,Playful but knows when to settle down. Good balance.,,False,8.3,8.5,False,False
+46,Stella,3,White,2023-04-04,2024-03-16,2024-05-08,adopted,1,Sweet and docile. Gets along well with other cats.,,False,5.4,7.7,False,False
+47,Storm,3,Lilac point,2019-11-21,2023-11-24,,available,4,Snuggly and warm. Perfect companion for cold days.,,False,3.6,4.9,False,False
+48,Butterscotch,7,Lilac point,2016-11-08,2022-11-24,,available,3,Vocal and social. Will follow visitors around the lounge.,,True,4.3,13.4,False,False
+49,Kiwi,8,Gray and white,2016-06-22,2023-08-19,2024-01-08,adopted,5,Calm and gentle. Perfect lap cat for relaxed visits.,,True,2.1,7.4,True,False
+50,Dottie,2,Gray and white,2016-12-21,2023-03-04,,available,2,Vocal and social. Will follow visitors around the lounge.,,True,5.8,8.7,False,False
+51,Alfie,6,Black and white,2016-05-27,2024-03-21,,available,5,Active and athletic. Loves climbing and jumping.,,True,4.0,14.0,True,True
+52,Honey,5,Chocolate point,2019-07-03,2024-04-06,,available,5,Extremely affectionate. Seeks out human contact constantly.,,False,5.7,18.3,False,True
+53,Cedar,9,Cream,2017-06-13,2022-10-26,,available,5,Initially shy but warms up quickly. Prefers quiet visitors.,,False,4.4,11.1,False,False
+54,Chess,7,Fawn,2022-11-10,2023-09-09,2023-12-09,adopted,3,Vocal and social. Will follow visitors around the lounge.,,True,6.6,12.6,False,False
+55,Tofu,2,Bi-color orange,2017-12-18,2023-07-27,2023-10-03,adopted,4,Snuggly and warm. Perfect companion for cold days.,,False,4.6,10.5,False,False
+56,Domino,1,Tuxedo,2015-12-07,2023-01-12,,available,4,Vocal and social. Will follow visitors around the lounge.,,True,6.1,15.9,True,False
+57,Juniper,3,Silver tabby,2019-02-12,2023-09-25,,available,5,Friendly and outgoing. Loves meeting new people.,,False,3.0,12.6,False,True
+58,Gus,10,Red tabby,2020-10-29,2024-04-30,2024-07-17,adopted,1,Friendly and outgoing. Loves meeting new people.,,True,8.7,7.2,False,False
+59,Zinnia,10,Seal mitted,2021-01-02,2023-03-13,,available,5,Playful but knows when to settle down. Good balance.,,False,4.3,6.9,False,False
+60,Socks,2,Orange tabby,2018-02-23,2024-08-09,,available,1,Calm and gentle. Perfect lap cat for relaxed visits.,,False,5.7,7.9,False,False
+61,Bubbles,9,Gray and white,2016-05-10,2023-01-01,,available,1,High energy kitten. Needs lots of play and stimulation.,,False,6.3,11.2,False,False
+62,Pretzel,6,Bi-color orange,2017-07-06,2023-01-14,,available,5,Calm and gentle. Perfect lap cat for relaxed visits.,,False,4.5,12.4,False,False
+63,Indie,6,Tortoiseshell,2020-10-24,2024-01-14,2024-03-01,adopted,2,Sweet and docile. Gets along well with other cats.,,False,8.1,10.8,False,False
+64,Callie,6,Tuxedo,2016-02-13,2023-07-24,2023-11-05,adopted,3,Gentle giant. Big personality in a fluffy package.,,True,5.2,11.9,True,False
+65,Peanut,4,Tuxedo,2016-01-18,2022-12-08,,available,4,Gentle giant. Big personality in a fluffy package.,,False,6.8,8.7,False,False
+66,Marble,9,Smoke gray,2016-12-27,2024-03-20,2024-08-06,adopted,5,Dignified and graceful. Prefers gentle interactions.,,True,3.3,12.1,True,True
+67,Ivy,1,Gray folded ears,2016-09-17,2023-12-11,,available,5,Initially shy but warms up quickly. Prefers quiet visitors.,,True,4.4,16.8,True,True
+68,Tabitha,3,Blue bicolor,2015-09-22,2022-09-05,,available,1,Sweet and docile. Gets along well with other cats.,,False,6.4,6.2,False,False
+69,Miso,10,Black and white,2018-07-25,2023-04-10,,available,1,Extremely affectionate. Seeks out human contact constantly.,,False,6.3,9.8,False,False
+70,Ginger,1,Calico,2023-10-09,2024-05-08,2024-06-27,adopted,4,Extremely affectionate. Seeks out human contact constantly.,,True,7.3,15.4,False,False
+71,Waffle,4,Calico,2021-06-30,2023-02-26,,available,5,Adventurous spirit. Loves new experiences and visitors.,,False,2.2,11.6,False,False
+72,Patches,10,Red tabby,2019-02-27,2023-07-26,2023-10-29,adopted,4,Vocal and social. Will follow visitors around the lounge.,,True,5.6,8.7,False,False
+73,Poppy,10,Red tabby,2016-09-04,2023-09-16,,available,2,Very playful and energetic. Great with interactive toys.,,True,3.7,8.5,True,False
+1,Whiskers,1,Orange tabby,2020-04-15,2022-06-15,,permanent_resident,1,"Original cafe cat. Loves lap time, great with new visitors.",,True,6.5,9.0,False,False
+2,Shadow,2,Black,2021-01-10,2022-07-01,2022-11-15,adopted,1,"Initially shy, warmed up beautifully. Adopted by regular.",,False,7.4,7.7,False,False
+3,Mittens,2,Gray and white,2019-08-20,2022-07-15,2023-02-28,adopted,1,"Senior cat, very calm. Perfect for quiet visitors.",,False,7.2,7.5,False,False
+4,Luna,3,Seal point,2021-06-05,2022-08-01,2023-01-20,adopted,2,Very vocal and social. Would follow visitors around.,,False,7.1,5.1,False,False
+5,Thor,5,Brown tabby,2020-11-20,2023-01-10,,available,2,"Large and fluffy, loves brushing sessions. Very patient.",,True,8.0,12.0,False,False
+6,Mochi,3,Chocolate point,2022-06-10,2023-02-15,2023-09-10,adopted,2,Energetic and playful. Great with kids.,,False,7.0,16.0,False,False
+7,Duchess,4,White,2019-03-15,2023-04-01,,medical_hold,3,Elegant and quiet. Currently recovering from dental surgery.,,False,8.2,5.0,False,False
+8,Biscuit,6,Blue (gray),2022-04-01,2023-05-20,,available,3,Sweet and easygoing. Gets along with everyone.,,False,6.2,13.9,False,False
+9,Cleo,8,Ruddy,2021-09-15,2023-07-01,2024-01-15,adopted,1,Very active and curious. Needed experienced adopter.,,False,4.6,16.6,False,False
+10,Jasper,9,Brown spotted,2022-01-20,2023-08-15,,available,4,Intelligent and energetic. Loves interactive toys.,,True,4.5,11.3,False,False
+11,Olive,7,Seal mitted,2023-01-05,2023-09-01,,available,4,Extremely docile. Will go limp when picked up.,,False,5.1,11.1,False,False
+12,Pumpkin,2,Orange,2022-10-15,2024-01-20,2024-07-20,adopted,1,Friendly and outgoing. Adopted quickly!,,False,5.4,15.8,False,False
+13,Hazel,10,Gray folded ears,2023-03-10,2024-02-01,,available,3,Sweet and adaptable. Loves to be near people.,,False,6.8,9.4,False,False
+14,Maple,2,Tortoiseshell,2021-04-25,2024-04-15,,available,5,Independent but affectionate when ready.,,False,4.3,14.5,False,True
+15,Finn,1,Silver tabby,2023-08-01,2024-06-01,,available,5,"Young Maine Coon, still growing! Very playful.",,True,5.5,7.7,False,True
+16,Willow,7,Blue bicolor,2023-05-20,2024-08-01,,available,2,Gentle and quiet. Perfect for calm visitors.,,False,3.4,10.2,False,False
+17,Nugget,6,Golden,2024-01-10,2024-09-15,,available,4,Kitten! Playful and full of energy.,,True,5.8,12.0,False,False
+18,Pepper,2,Black and white,2022-07-15,2025-01-05,,available,1,"Tuxedo cat, very dapper. Enjoys chin scratches.",,False,4.7,17.2,False,False

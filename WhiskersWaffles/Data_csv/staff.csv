@@ -1,0 +1,16 @@
+staff_id,first_name,last_name,email,phone,role,hire_date,termination_date,hourly_rate,is_active
+1,Riley,Chen,riley.chen@whiskerswaffles.com,202-555-1001,Manager,2022-05-15,,32.0,True
+2,Jordan,Rivera,jordan.r@whiskerswaffles.com,202-555-1002,Cat Care Specialist,2022-06-01,,20.0,True
+3,Alex,Kim,alex.kim@whiskerswaffles.com,202-555-1003,Barista,2022-06-01,,17.0,True
+4,Sam,Washington,sam.w@whiskerswaffles.com,202-555-1004,Adoption Coordinator,2022-08-01,,22.0,True
+5,Casey,Morgan,casey.m@whiskerswaffles.com,202-555-1005,Barista,2023-03-15,,17.0,True
+6,Taylor,Brooks,taylor.b@whiskerswaffles.com,202-555-1006,Cat Care Specialist,2023-09-01,,19.0,True
+7,Morgan,Patel,morgan.p@whiskerswaffles.com,202-555-1007,Part-Time,2024-01-15,,16.0,True
+8,Jamie,OBrien,jamie.ob@whiskerswaffles.com,202-555-1008,Barista,2022-06-01,2023-08-31,16.0,False
+9,Drew,Martinez,drew.m@whiskerswaffles.com,202-555-1009,Part-Time,2023-06-01,2024-06-30,16.0,False
+10,Avery,Nguyen,avery.n@whiskerswaffles.com,202-555-1010,Barista,2023-04-01,,17.5,True
+11,Reese,Thompson,reese.t@whiskerswaffles.com,202-555-1011,Cat Care Specialist,2023-07-15,,19.5,True
+12,Quinn,Davis,quinn.d@whiskerswaffles.com,202-555-1012,Part-Time,2024-03-01,,16.5,True
+13,Skyler,Park,skyler.p@whiskerswaffles.com,202-555-1013,Barista,2024-06-01,,17.0,True
+14,Harper,Reeves,harper.r@whiskerswaffles.com,202-555-1014,Adoption Coordinator,2024-08-15,,21.0,True
+15,Rowan,Singh,rowan.s@whiskerswaffles.com,202-555-1015,Part-Time,2023-01-15,2023-12-31,16.0,False

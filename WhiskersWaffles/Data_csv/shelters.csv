@@ -1,0 +1,6 @@
+shelter_id,shelter_name,address,city,state,phone,contact_email,partnership_start,is_active
+1,DC Humane Society,71 Oglethorpe St NW,Washington,DC,202-555-0100,intake@dchumane.org,2022-06-01,True
+2,Lucky Cat Rescue,1550 14th St NW,Washington,DC,202-555-0101,cats@luckycatdc.org,2022-08-15,True
+3,Arlington Animal Welfare,2650 S Arlington Mill Dr,Arlington,VA,703-555-0102,adopt@arlingtonawl.org,2023-01-10,True
+4,Montgomery County Shelter,14645 Rothgeb Dr,Rockville,MD,301-555-0103,animals@montgomerycounty.gov,2023-06-01,True
+5,Alley Cat Allies,7920 Norfolk Ave,Bethesda,MD,240-555-0104,rescue@alleycatallies.org,2024-01-15,True
